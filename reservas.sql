@@ -34,7 +34,7 @@ CREATE TABLE `reservas` (
 --
 
 INSERT INTO `reservas` (`nombre`, `ocupacion`, `oficina`, `precio`, `fecha`) VALUES
-('facundo', 'estudiante', 'Granada', '', '22/06/2018');
+('facundo', 'estudiante', 'Granada', '', '22/06/2023');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

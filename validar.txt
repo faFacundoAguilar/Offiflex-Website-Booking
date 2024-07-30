@@ -68,3 +68,22 @@ if ($result->num_rows > 0) {
 $stmt->close();
 $mysqli->close();
 ?>
+
+Descarga el proyecto o Clona el repositorio si lo deseas  desde mi repositorio de GitHub :
+
+git clone 
+cd Reserva
+
+## Configurar la base de datos:
+Importar base de datos en tu servidor MySQL.
+
+## Instalar dependencias de Tailwind CSS:
+
+npm install
+npx tailwindcss build src/styles.css -o public/styles.css
+Ejecutar el servidor:
+
+utilizar un servidor local como XAMPP o MAMP.
+Acceder a http://localhost/sistema-de-reservas en tu navegador.
+Luego podras ejecutar el sistema de reservas en tu entorno local o servidor web.
+

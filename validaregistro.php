@@ -1,5 +1,5 @@
-<?php
-
+<?php                               // verificamos si un correo electrónico ya está registrado en una base de datos y, si no lo está,
+                                   // inserta un nuevo usuario en la base de datos.
 	$realname=$_POST['realname'];
 	$mail=$_POST['nick'];
 	$pass= $_POST['pass'];

@@ -1,13 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Tailwind CSS CDN -->
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!--  librería SweetAlert2 Alert CDN -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
+
 <body class="bg-cover" style="background-image: url('images/gr1.jpg');">
     <div class="container mx-auto p-4">
         <h4 class="text-center text-2xl font-bold mb-8"><span class="font-algerian">REGISTRO</span></h4>
@@ -31,4 +32,5 @@
         </form>
     </div>
 </body>
+
 </html>
