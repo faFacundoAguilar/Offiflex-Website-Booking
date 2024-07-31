@@ -33,7 +33,7 @@ Integra una libreria de JavaScript para mejorar la interacción de algunas funci
 Esta version que comparto puede no tener todas las campanas y silbidos (como confirmaciones de reserva y pasarelas de pago), pero es el punto de partida si quieres hacer algo similar
 que no solo funciona, sino que también tiene un aspecto impecable👌. 
 > [!NOTE]
-> Las imagenes de este proyecto son creadas mediante IA,  optimizadando las prompts lo que permite adaptar las imágenes a los requisitos y estilo deseados asegurando resultados visuales de alta calidad, ajustados a las necesidades del proyecto.
+> Las imagenes de este proyecto son creadas mediante IA,  optimizadando las prompts lo que permite adaptar las imágenes a los requisitos y estilo deseados asegurando resultados visuales de alta calidad.
 # Lenguajes
 - **PHP**
 - **TailwindCss**
