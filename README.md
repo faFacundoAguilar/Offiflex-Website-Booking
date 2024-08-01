@@ -27,7 +27,7 @@
 </table>
 
 # OffiFlex
-Es un sistema de reservas flexible diseñado para ofrecer una experiencia de usuario intuitiva.
+Es un sistema de reservas flexible  para ofrecer una experiencia de usuario intuitiva.
 El diseño es Responsivo. Use tailwind Css para los estilos como tambien librerias adicionales de componentes modulares.
 Integra una libreria de JavaScript para mejorar la interacción de algunas funcionalides especificas.
 Esta version que comparto puede no tener todas las campanas y silbidos (como confirmaciones de reserva y pasarelas de pago), pero es el punto de partida si quieres hacer algo similar
