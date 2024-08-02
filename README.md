@@ -43,7 +43,7 @@ que no solo funciona, sino que también tiene un aspecto impecable👌.
 - **TailwindUI**
 # Funcionalidades 
 - **Registro y Autenticación de Usuarios**✔️
-- **Calendario de Disponibilidad**✔️
+- **Calendario de Disponibilidad** ✔️
 - **Procedimiento de Reserva**✔️
 - **Sección de Mensajes y Consultas**✔️
 
