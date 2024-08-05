@@ -32,7 +32,7 @@ Diseño Responsivo. Use clases tailwind Css como tambien librerias adicionales d
 Integra una libreria de JavaScript para mejorar la interacción de algunas funcionalides especificas.
 > [!NOTE]
 > Esta version es una demo, puede no tener todas las campanas y silbidos (como confirmaciones de reserva, pasarelas de pago y mas funcionalidades), pero es el punto de partida si queres hacer algo similar
-que no solo funciona, sino que también tiene un diseño armonico, con clases tailwindcss, responsive 👌. 
+que no solo funciona, sino que también tiene un diseño minimalista, con clases tailwindcss, responsive 👌. 
 # Lenguajes
 - **PHP**
 - **TailwindCss**
