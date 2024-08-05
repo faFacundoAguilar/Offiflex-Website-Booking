@@ -31,8 +31,8 @@ Es un sistema de reservas flexible  para ofrecer una experiencia de usuario flui
 Diseño Responsivo. Use clases tailwind Css como tambien librerias adicionales de componentes modulares.
 Integra una libreria de JavaScript para mejorar la interacción de algunas funcionalides especificas.
 > [!NOTE]
-> Esta version que comparto puede no tener todas las campanas y silbidos (como confirmaciones de reserva y pasarelas de pago), pero es el punto de partida si quieres hacer algo similar
-que no solo funciona, sino que también tiene un aspecto impecable👌. 
+> Esta version es una demo, puede no tener todas las campanas y silbidos (como confirmaciones de reserva, pasarelas de pago y mas funcionalidades), pero es el punto de partida si queres hacer algo similar
+que no solo funciona, sino que también tiene un diseño armonico, con clases tailwindcss, responsive 👌. 
 # Lenguajes
 - **PHP**
 - **TailwindCss**
