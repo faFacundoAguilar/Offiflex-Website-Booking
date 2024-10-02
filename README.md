@@ -34,7 +34,7 @@ Uso de librerías adicionales de componentes modulares para garantizar un alto g
 Integración de librerías JavaScript para mejorar la interactividad en funcionalidades clave.
 
 > [!NOTE]
-> Esta version es una demo, puede no tener todas las campanas y silbidos (como confirmaciones de reserva, pasarelas de pago y mas funcionalidades), pero es un punto de partida si queres hacer algo similar
+> Esta version es una demo, puede no tener todas las campanas y funcionalidades activas (como confirmaciones de reserva, pasarelas de pago y mas funcionalidades), pero es un punto de partida si queres hacer algo similar
 y funcional 👌. 
 # Lenguajes
 - **PHP**
