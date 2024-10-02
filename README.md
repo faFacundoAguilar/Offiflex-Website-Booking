@@ -1,5 +1,15 @@
 <p align="center">
-  <strong>OffiFlex ➡︎ Homepage</strong>
+   <a> 
+    <img alt="PHP" src="https://img.shields.io/badge/PHP%20-%23777BB4.svg?logo=php&logoColor=white">
+  </a>
+    &emsp;
+  <a> 
+    <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?logo=sqlite&logoColor=white">
+  </a>
+      &emsp;
+    <a>
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS%20-%2306B6D4.svg?logo=tailwindcss&logoColor=white"/>
+  </a>
 </p>
 
 <table>
