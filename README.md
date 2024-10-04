@@ -7,6 +7,10 @@
     <img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300758F.svg?logo=sqlite&logoColor=white">
   </a>
       &emsp;
+   <a href="https://www.example.com" target="_blank">
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+</a>
+   &emsp;
     <a>
     <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS%20-%2306B6D4.svg?logo=tailwindcss&logoColor=white"/>
   </a>
@@ -37,10 +41,10 @@
 </table>
 
 # OffiFlex
-Sistema de reservas flexible diseñado para proporcionar una experiencia de usuario intuitiva y eficiente.
+Sistema de reservas minimalista diseñado para proporcionar una experiencia de usuario intuitiva y eficiente.
 
-Diseño responsivo: Implementado con Tailwind CSS para estilos consistentes .
-Uso de librerías adicionales de componentes modulares para garantizar un alto grado de personalización y reutilización.
+Diseño responsivo: Implementado con Tailwind CSS para estilos consistentes .<br>
+Use librerías adicionales de componentes modulares para garantizar un alto grado de personalización y reutilización.
 Integración de librerías JavaScript para mejorar la interactividad en funcionalidades clave.
 
 > [!NOTE]
