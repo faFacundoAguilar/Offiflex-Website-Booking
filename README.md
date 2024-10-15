@@ -42,7 +42,7 @@
 
 # OffiFlex
 Sistema de reservas minimalista y eficiente de espacios de trabajo Coworking.
-En este proyecto el usuario podra seleccionar una ubicacion de 3 oficinas disponibles que estan distribuidas en distintos puntos de la ciudad. Su reserva se comcretara si tiene una membresia activa, de lo contrario no avanzara. Es sencillo y funcional, pero puede pero ser el punto de partida si lo queres tomar de ejemplo para tu proyecto.  
+En este proyecto el usuario podra seleccionar una ubicacion de 3 oficinas disponibles que estan distribuidas en distintos puntos de la ciudad. Su reserva se comcretara si tiene una membresia activa, de lo contrario no avanzara. Es sencillo y funcional.
 
 Diseño responsivo: Implementado con Tailwind CSS para estilos consistentes .<br>
 Use librerías adicionales de componentes modulares para garantizar un alto grado de personalización y reutilización.<br>
